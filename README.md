@@ -26,5 +26,4 @@
 4.  Spam
 5.  Images of extreme gore or depict death
 6.  Pornography
-7.  Doxing
-abcd
+7.  Doxxing 
