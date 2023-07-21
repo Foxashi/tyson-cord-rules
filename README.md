@@ -1,6 +1,6 @@
 ### tyson-cord-rules
 
-##T his is a friendly and relaxed sub.  Be chill and kind and what follows shouldn't pertain to you.
+## This is a friendly and relaxed sub.  Be chill and kind and what follows shouldn't pertain to you.
 
 # You will be given a strike (1) for the following behaviors:
 
