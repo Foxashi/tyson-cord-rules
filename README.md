@@ -1,5 +1,5 @@
 ## This is a friendly and relaxed sub.  Be chill and kind and what follows shouldn't pertain to you.
-test
+
 # You will be given a strike (1) for the following behaviors:
 
 1. Political chat aimed at baiting or causing drama on the server
