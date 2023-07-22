@@ -1,7 +1,7 @@
 ## This is a friendly and relaxed sub.  Be chill and kind and what follows shouldn't pertain to you.
 
 # You will be given a strike (1) for the following behaviors:
-sdjajdsjkas
+
 1. Political chat aimed at baiting or causing drama on the server
 2. Personal attacks or harassment. (mods will do thier best to allow friendly joking)
 3. Careless use of slurs against any group of people.
