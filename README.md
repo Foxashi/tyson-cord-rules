@@ -1,3 +1,4 @@
+```
 ## This is a friendly and relaxed sub.  Be chill and kind and what follows shouldn't pertain to you.
 
 # You will be given a strike (1) for the following behaviors:
@@ -25,3 +26,4 @@
 5.  Images of extreme gore or depict death
 6.  Pornography
 7.  Doxxing 
+```
