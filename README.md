@@ -11,7 +11,7 @@ https://discord.com/tos
 ### Toxicity is not allowed and everyone should be nice to each other.
 
 # 4: No spamming or creating chains.
-### Spamming the chat with long messages or spamming the same message isn't allowed,
+### Spamming the chat with long messages or spamming the same message isn't allowed.
 ### Chains is when other members say the same thing repeated for example:
 
 ### Tyson Yen: :3
