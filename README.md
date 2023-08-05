@@ -39,19 +39,8 @@ https://discord.com/tos
 ![TYSON_yen_warning_punishments](https://github.com/FoxTheRigger/tyson-cord-rules/assets/103516887/3313735b-2713-4667-9a32-33981549e07b)
 
 ***1. Normal warning with no other punishment.***
-
-
 ***2. Second warning with a 1h mute.***
-
-
 ***3. Third warning with a 4h mute.***
-
-
 ***4. Fourth warning with a day ban.***
-
-
 ***5. Fifth warning with a week ban.***
-
-
 ***6. Sixth warning with a permanent ban.***
-
