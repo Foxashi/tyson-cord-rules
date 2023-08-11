@@ -1,7 +1,5 @@
 ![tyson_yen_rules](https://github.com/FoxTheRigger/tyson-cord-rules/assets/103516887/b33075e4-8337-4967-a655-b72b1bc14502)
 
-
-test
 # 1: Follow Discord TOS.
 ### It's important first to note that you should read the Discord TOS (Terms of Service) before entering the server, the TOS can be found here:
 https://discord.com/tos
@@ -37,17 +35,3 @@ https://discord.com/tos
 
 # 10: No shit-pinging staff members or pinging Tyson Yen.
 ### Tyson Yen and the staff team are always busy but pinging the staff without a reason and as a way to troll them will get you warned and for Tyson Yen, you aren't allowed to ping him because he's busy and can't be bothered with the pings.
-
-![TYSON_yen_warning_punishments](https://github.com/FoxTheRigger/tyson-cord-rules/assets/103516887/3313735b-2713-4667-9a32-33981549e07b)
-
-***1. Normal warning with no other punishment.***
-
-***2. Second warning with a 1h mute.***
-
-***3. Third warning with a 4h mute.***
-
-***4. Fourth warning with a day ban.***
-
-***5. Fifth warning with a week ban.***
-
-***6. Sixth warning with a permanent ban.***
