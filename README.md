@@ -1,37 +1,38 @@
 ![tyson_yen_rules](https://github.com/FoxTheRigger/tyson-cord-rules/assets/103516887/b33075e4-8337-4967-a655-b72b1bc14502)
+No racism, homophobia, or harmful language targeted towards groups of people will not be tolerated. This includes soft a nword
 
-# 1: Follow Discord TOS.
-### It's important first to note that you should read the Discord TOS (Terms of Service) before entering the server, the TOS can be found here:
-https://discord.com/tos
+Harassment and threats will not be tolerated. This also includes with continuing of doing something that someone had stated makes them uncomfortable.
 
-# 2: No showing hate.
-### Showing hate to others or promoting hate like racism, homophobia ect. is not allowed in the server and will get you either banned or muted depending on the severity.
+Drama is not allowed. Do not create any or bring any past drama up.
 
-# 3: Be kind to others.
-### Toxicity is not allowed and everyone should be nice to each other.
+Do NOT spam, mass ping, ghost ping, spam join/leave VCs, errape, or mass repost content.
 
-# 4: No spamming or creating chains.
-### Spamming the chat with long messages or spamming the same message isn't allowed.
-### Chains is when other members say the same thing repeated for example:
+NSFW content is not allowed. Unless it’s behind a specified age gate.
 
-### Tyson Yen: :3
-### Ult: :3
-### Fox: :3
+Do not complain about moderation actions or players/in game problems in the discord chats. If you have a problem please contact tyson or one of the managers
 
-# 5: No doxxing or share any kind of private information.
-### Sending someone's face (without their permission) or sending someone's actual private information in this server will get you banned with no way to appeal whatsoever.
+If you think you were unrightfully banned go to appeal-server-link to appeal your ban. Do not complain in discord chats.
 
-# 6: No NSFW content.
-### Don't send any type of NSFW content (ex. Pornography, Gore and so on) in the server or talk about any NSFW content that a minor shouldn't be present to.
+Use proper channels for things. Keep bot stuff in bot commands and art in art
 
-# 7: Keep channels in topic.
-### Using a channel not served for it's topic should be moved to the appropriate channel, continued off-topic speech will get you warned if a staff member told you to stop.
+No political extremism and avoid talking politics.
 
-# 8: No politics, activism and fascism.
-### We want to keep politics, activism and fascism out of the server since this is a community server, it should be kept to yourself.
+Staff have final say on rule interpretations, so don't go looking for loopholes! If you think staff made a wrong decision , report to managers or tyson
 
-# 9: No planning raids on/against this server.
-### Raids are against Discord TOS and poses a risk factor to getting your account terminated, if one is found out trying to raid, they will be banned without appeal.
+Do not contact any staff members or ask in discord chats to be moderator. If you want to be staff apply at apply-for-staff-or-role when the application is open. Do not ask when your application decision will be decided.  12. Doxing or being associated with doxing groups is not allowed. Do not even joke about it.
 
-# 10: No shit-pinging staff members or pinging Tyson Yen.
-### Tyson Yen and the staff team are always busy but pinging the staff without a reason and as a way to troll them will get you warned and for Tyson Yen, you aren't allowed to ping him because he's busy and can't be bothered with the pings.
+13: Raiding other servers will lead to your permanent ban. Along with any form of "preparation" or discussion regarding raiding a community will result in an immediate ban for all individuals involved. Or talking about raiding this server or just joining to plan our your ban.
+
+14: Encouraging others to break rules will only hurt yourself.
+
+15: Posting or Dming scam links will get you permanently banned
+
+16: Extreme Toxicity isnt allowed.
+
+17: Do not say things to ppl out of your age group that can be perceived as sexual (if you over 18 don’t say to minors. If ur under 18 don’t say to adults.) 
+
+Advertising is only allowed in advertising or if you get permission elsewhere. Staff are allowed to not let people advertise in that channel.
+
+19: The Administration Team has the right to punish a member for an item that is not directly discussed in these rules, if it violates any "common sense" and good etiquette rules one should follow.
+
+20: Follow Discord TOS: https://discordapp.com/guidelines 
