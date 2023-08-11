@@ -1,5 +1,7 @@
 ![tyson_yen_rules](https://github.com/FoxTheRigger/tyson-cord-rules/assets/103516887/b33075e4-8337-4967-a655-b72b1bc14502)
 
+
+test
 # 1: Follow Discord TOS.
 ### It's important first to note that you should read the Discord TOS (Terms of Service) before entering the server, the TOS can be found here:
 https://discord.com/tos
