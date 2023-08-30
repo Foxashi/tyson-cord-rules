@@ -1,6 +1,4 @@
-# TEST
-
-1: Follow Discord TOS.
+# 1: Follow Discord TOS.
 It's important first to note that you should read the Discord TOS (Terms of Service) before entering the server, the TOS can be found here:
 https://discord.com/tos
 
