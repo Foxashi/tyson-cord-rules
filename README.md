@@ -6,11 +6,11 @@
 
 4. Refrain from spamming, mass pinging, ghost pinging, disruptive VCs, explicit content, or excessive reposting.
 
-5. NSFW content is disallowed, except behind an age-restricted gate.
+5. Extreme/Hardcore NSFW content is not allowed.
 
-6. Address moderation issues privately. For problems, contact Tyson or managers.
+6. Address moderation issues privately. For problems, contact the managers, admins or moderators (In really extreme cases like perm abusing, Tyson).
 
-7. Appeal bans at appeal-server-link. No ban complaints in chats.
+7. Appeal bans in the Fort Yen Discord server. No ban complaints in chats.
 
 8. Use relevant channels. Keep bot commands and art in their respective places.
 
@@ -18,22 +18,18 @@
 
 10. Staff rulings are final. Report missteps to managers or Tyson.
 
-11. Avoid asking for moderator roles in chats. Apply at apply-for-staff-or-role during openings. Application progress inquiries are not allowed.
+11. No doxxing or related humor. Strictly prohibited.
 
-12. No doxing or related humor. Strictly prohibited.
+12. Raiding other servers results in permanent ban. Planning raids also leads to instant bans.
 
-13. Raiding other servers results in permanent ban. Planning raids also leads to instant bans.
+13. Encouraging rule-breaking harms you too.
 
-14. Encouraging rule-breaking harms you too.
+14. Posting or DMing scam links leads to permanent ban.
 
-15. Posting or DMing scam links leads to permanent ban.
+15. Extreme toxicity isn't tolerated.
 
-16. Extreme toxicity isn't tolerated.
+16. Advertise only in appropriate channels or with permission. Staff may restrict ads.
 
-17. Be cautious with age-specific conversations, avoiding inappropriate discussions across age groups.
+17. Admins can act on unlisted issues violating common sense and etiquette.
 
-18. Advertise only in appropriate channels or with permission. Staff may restrict ads.
-
-19. Admins can act on unlisted issues violating common sense and etiquette.
-
-20. Follow Discord TOS: https://discordapp.com/guidelines
+18. Follow Discord TOS: https://discordapp.com/guidelines
