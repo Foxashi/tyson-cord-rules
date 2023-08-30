@@ -1,5 +1,3 @@
-![tyson_yen_rules](https://github.com/FoxTheRigger/tyson-cord-rules/assets/103516887/284f058c-7fd6-42d0-8b37-110646e569ef)
-
 1. No racism, homophobia, or harmful language targeting any groups. This includes use of inappropriate slurs.
 
 2. Harassment, threats, and persistently making others uncomfortable are prohibited.
