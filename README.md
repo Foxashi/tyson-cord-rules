@@ -34,7 +34,7 @@
 
 18. Follow Discord TOS: https://discordapp.com/guidelines
 
-
+https://github.com/FoxTheRigger/tyson-cord-rules/assets/103516887/412b9205-0dc5-4124-acc0-2a4cf91f3b10
 
 *1. Normal warning with no other punishment.*
 
