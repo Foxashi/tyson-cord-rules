@@ -33,3 +33,23 @@
 17. Admins can act on unlisted issues violating common sense and etiquette.
 
 18. Follow Discord TOS: https://discordapp.com/guidelines
+
+
+
+*1. Normal warning with no other punishment.*
+
+
+*2. Second warning with a 1h mute.*
+
+
+*3. Third warning with a 4h mute.*
+
+
+*4. Fourth warning with a day ban.*
+
+
+*5. Fifth warning with a week ban.*
+
+
+6. Sixth warning with a permanent ban.
+
