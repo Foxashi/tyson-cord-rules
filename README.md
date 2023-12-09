@@ -1,32 +1,28 @@
-# --> Server Rules <--
+--> Server Rules <--
 
-### 1. Respect eachother!
+1. Respect Each Other:
+-> Avoid making threats within the server.
+-> Refrain from using offensive slurs.
 
--> Don't threaten anyone is this server
--> Don't say slurs
-   
-### 3. No NSFW!
+2. No NSFW Content:
+-> Prohibited content includes but is not limited to pornography and gore.
+-> Avoid initiating NSFW discussions or baits.
 
--> No NSFW (ex: Pornography, gore etc) topics, discussions or baits
+3. Keep Politics Outside:
+-> Reserve political discussions for other platforms and refrain from engaging in such topics within the server.
 
-### 4. Keep politics outside the server!
--> Please keep those topics outside the server
-   
-### 6. No spamming!
+4. No Spamming:
+-> Do not flood the channels with repetitive messages.
+-> Chaining messages is limited to a maximum of three consecutive messages.
+-> When sharing memes or videos with loud audio, kindly include a "loud warning" beforehand.
 
--> Don't send the same text every second
--> Chaining is also considered (max: 3 messages)
--> Loud audios are considered a type of spam here too, please add a "loud warning" before your meme or video
+5. Exercise Common Sense:
+-> Use channels appropriately for their designated purposes.
+-> Maintain a considerate and non-disruptive presence.
 
-### 7. Have common sense!
--> Use the channels properly
--> Don't be annoying in general
+6. Avoid Unnecessary Pinging:
+-> Refrain from pinging Tyson or the staff team without a valid reason.
 
-### 8. Don't ping Tyson or the staff team for no reason!
--> Please ping the staff team or Tyson only with a good reason
-NOTE: Fox is an exception
-
-### 10. Follow Discord's TOS and Community Guidelines
-
--> https://discord.com/terms
--> https://discord.com/guidelines
+Discord's Terms of Service and Community Guidelines:
+-https://discord.com/terms
+-https://discord.com/guidelines
