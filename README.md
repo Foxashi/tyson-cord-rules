@@ -6,7 +6,7 @@
 
 # 2. No NSFW Content:
 ## -> Do not send any type of NSFW content.
-## -> Avoid initiating NSFW discussions or sending baits memes/videos.
+## -> Avoid initiating NSFW discussions or sending bait memes/videos.
 
 # 3. Keep Politics Outside:
 ## -> Reserve political discussions for other platforms and refrain from engaging in such topics within the server.
