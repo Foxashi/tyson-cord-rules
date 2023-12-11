@@ -9,12 +9,11 @@
 ## -> Avoid initiating NSFW discussions or sending bait memes/videos.
 
 # 3. Keep Politics Outside:
-## -> Reserve political discussions for other platforms and refrain from engaging in such topics within the server.
+## -> Please keep politics out of this server.
 
 # 4. No Spamming:
 ## -> Do not flood the channels with repetitive messages.
 ## -> Chaining messages is limited to a maximum of three consecutive messages.
-## -> When sharing memes or videos with loud audio, kindly include a "loud warning" beforehand.
 
 # 5. Have Common Sense:
 ## -> Use channels appropriately for their designated purposes.
