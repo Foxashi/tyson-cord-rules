@@ -8,6 +8,7 @@
 
 ### 2. No NSFW Content:
 -> No NSFW dicussions, topics, memes, baits etc.
+-> If you use an NSFW PFP you're going to be immediately asked to change it. If you refuse you're going to get banned.
 
 ### 3. Keep Politics Outside:
 -> We want to keep politics out of the server since this is a community server, it should be kept to yourself.
