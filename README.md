@@ -7,7 +7,7 @@
 -> Don't be edgy in general.
 
 ### 2. No NSFW Content:
--> No NSFW dicussions, topics, memes, baits, PFPs etc. Please keep the server clean.
+-> No NSFW dicussions, topics, memes, baits etc.
 
 ### 3. Keep Politics Outside:
 -> We want to keep politics out of the server since this is a community server, it should be kept to yourself.
