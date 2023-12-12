@@ -21,6 +21,7 @@
 ### 5. Have Common Sense:
 -> Use the channels properly
 -> Don't be annoying
+-> Staff always have a final say on everything and if you are asked to stop something then you should.
 -> Don't take advantage of the stuff that aren't listed on the rules, you're still going to get warned.
 -> Hating on Tyson or Jetstream Sam is not allowed!!!
 
