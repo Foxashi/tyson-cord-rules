@@ -14,7 +14,7 @@
 
 ### 4. No Spamming:
 -> Do not flood the channels with copypastas or repetitive messages.
--> Chaining messages is limited to a maximum of three consecutive messages.
+-> Chaining messages is limited to a maximum of four consecutive messages.
 -> Loud audios are considered a type of spam so please add a little warning before your video just in case.
 
 ### 5. Have Common Sense:
