@@ -7,11 +7,11 @@
 -> Don't be edgy in general.
 
 ### 2. No NSFW Content:
--> No NSFW dicussions, topics, memes, baits etc.
+-> No NSFW (that includes gore, animal gore, porn etc) dicussions, topics, memes, baits etc.
 -> If you use an NSFW PFP you're going to be immediately asked to change it. If you refuse you're going to get banned.
 
 ### 3. Keep Politics Outside:
--> We want to keep politics out of the server since this is a community server, it should be kept to yourself.
+-> We want to keep politics out of the server, it should be kept to yourself.
 
 ### 4. No Spamming:
 -> Do not flood the channels with copypastas or repetitive messages.
@@ -21,7 +21,6 @@
 ### 5. Have Common Sense:
 -> Use the channels properly
 -> Don't be annoying
--> Staff always have a final say on everything and if you are asked to stop something then you should.
 -> Don't take advantage of the stuff that aren't listed on the rules, you're still going to get warned.
 -> Hating on Tyson or Jetstream Sam is not allowed!!!
 
